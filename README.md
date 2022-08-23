@@ -1,3 +1,5 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
 <h1 align="center"> Nmste, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
@@ -32,16 +34,14 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhavwabale&theme=vue"/>
 </p>
 
-## 📟 GitHub Stats
-<p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vaibhavwabale&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavwabale&theme=vue" />
-</p>
+## 📊 My Github Stats
 
-## Github Most Used Languages
-<p align="center">
-	<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavwabale&theme=tokyonight" />
-</p>
+  <br/>
+    <a href="https://github.com/vaibhavwabale/github-readme-stats"><img alt="Vaibhav Shivaji Wabale's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaibhavwabale&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/vaibhavwabale/github-readme-stats"><img alt="Vaibhav Shivaji Wabale's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavwabale&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
   
 
 <div align="center">
