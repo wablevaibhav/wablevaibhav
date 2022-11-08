@@ -16,7 +16,7 @@
 - 🌱 Learning Android Development.
 - 👯 I’m looking to make more friends.
 - 💬 Ask about Android Development / Kotlin / Java / Flutter.
-- 📫 Reach : vaibhavsonu0506@gmail.com
+- 📫 Reach : vaibhav.wabale@hotmail.com
 - 📫 Portfolio : https://vaibhavwabale.github.io/portfolio/
 
 ## 🌐 Socials
