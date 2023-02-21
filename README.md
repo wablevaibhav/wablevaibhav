@@ -3,7 +3,7 @@
 <h1 align="center"> Nmste, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> I'm Vaibhav Shivaji Wabale</h1>
+         width="45" /> I'm Vaibhav Shivaji Wable</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavwabale&label=Views&color=blue&style=plastic&style=for-the-badge" alt="vaibhavwabale" /> 
 </p>
@@ -16,8 +16,8 @@
 - 🌱 Learning Android Development.
 - 👯 I’m looking to make more friends.
 - 💬 Ask about Android Development / Kotlin / Java / Flutter.
-- 📫 Reach : vaibhav.wabale@hotmail.com
-- 📫 Portfolio : https://vaibhavwabale.github.io/portfolio/
+- 📫 Reach : wablevaibhav@outlook.com
+- 📫 Portfolio : 
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_vaibhav.wable) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavwable)  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCWdE3k-uxwIy0QI5MuGUfJg/featured)
@@ -34,7 +34,7 @@
 
   <br/>
     <a href="https://github.com/vaibhavwabale/github-readme-stats"><img alt="Vaibhav Shivaji Wabale's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaibhavwabale&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/vaibhavwabale/github-readme-stats"><img alt="Vaibhav Shivaji Wabale's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavwabale&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/wablevaibhav/github-readme-stats"><img alt="Vaibhav Shivaji Wable's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavwabale&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
