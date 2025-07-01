@@ -2,14 +2,19 @@
 
 I am Vaibhav Wable, a passionate developer, open-source enthusiast, and lifelong learner. I love building scalable mobile and web applications, exploring cross-platform technologies, and collaborating with the community. Always open to innovative/disruptive ideas and projects. Let's connect and create something awesome together!
 
-[![Linkedin Badge](https://img.shields.io/badge/-vaibhavwable-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wablevaibhav/)](https://www.linkedin.com/in/wablevaibhav/)
-[![Instagram Badge](https://img.shields.io/badge/-wablevaibhav-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/wablevaibhav)](https://instagram.com/wablevaibhav)
-[![Hashnode Badge](https://img.shields.io/badge/-@wablevaibhav-1F51FF?style=flat-square&labelColor=1F51FF&logo=Hashnode&link=https://wablevaibhav.hashnode.dev/)](https://wablevaibhav.hashnode.dev/)
-[![Gmail Badge](https://img.shields.io/badge/-wablevaibhav@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wablevaibhav@gmail.com)](mailto:wablevaibhav@gmail.com)
-[![Portfolio Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=BioLink&logoColor=white&link=https://linktr.ee/wablevaibhav)](https://linktr.ee/wablevaibhav)
-[![Youtube Badge](https://img.shields.io/badge/-Vaibhav%20Wable-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://youtube.com/@wablevaibhav)](https://youtube.com/@wablevaibhav)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/wablevaibhav/)](https://www.linkedin.com/in/wablevaibhav/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/wablevaibhav)](https://instagram.com/wablevaibhav)
+[![Hashnode Badge](https://img.shields.io/badge/-Portfolio-1F51FF?style=flat-square&labelColor=1F51FF&logo=Hashnode&link=https://wablevaibhav.github.io)](https://wablevaibhav.hashnode.dev/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vaibhavswable@gmail.com)](mailto:wablevaibhav@gmail.com)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://youtube.com/@vaibhavswable)](https://youtube.com/@wablevaibhav)
 
 [![Vaibhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wablevaibhav&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 📈 Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wablevaibhav&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wablevaibhav&theme=tokyonight" />
+</p>
 
 ## ⚡ Technologies
 
@@ -38,15 +43,3 @@ I am Vaibhav Wable, a passionate developer, open-source enthusiast, and lifelong
 ![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=flat-square&logo=xcode)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
-
-## 💰 Support
-<p>
-<a href='https://ko-fi.com/YOUR_KOFI_ID' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-<a href='https://www.buymeacoffee.com/wablevaibhav' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Vaibhav on buymecoffee' /></a>
-</p>
-
-## 📈 Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wablevaibhav&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wablevaibhav&theme=tokyonight" />
-</p>
