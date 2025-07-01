@@ -13,7 +13,6 @@ I am Vaibhav Wable, a passionate developer, open-source enthusiast, and lifelong
 ## 📈 Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wablevaibhav&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wablevaibhav&theme=tokyonight" />
 </p>
 
 ## ⚡ Technologies
