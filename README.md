@@ -77,8 +77,8 @@ More on GitHub → [github.com/wablevaibhav](https://github.com/wablevaibhav) ·
 ## GitHub Stats
 
 <p align="center">
-  <a href="https://github-stats-extended.vercel.app/api?username=wablevaibhav&custom_title=My%20Github%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=tokyonight&disable_animations=true">
-    <img src="https://github-stats-extended.vercel.app/api?username=wablevaibhav&custom_title=My%20Github%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=tokyonight&disable_animations=true" alt="GitHub Stats" />
+  <a href="https://github-stats-extended.vercel.app/api?username=wablevaibhav&rank_icon=percentile&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=tokyonight&disable_animations=true">
+    <img src="https://github-stats-extended.vercel.app/api?username=wablevaibhav&rank_icon=percentile&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=tokyonight&disable_animations=true" alt="GitHub Stats" />
   </a>
   &nbsp;
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=wablevaibhav&layout=compact&theme=tokyonight&langs_count=8&disable_animations=true" alt="Top Languages" />
