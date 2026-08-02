@@ -76,6 +76,8 @@ More on GitHub → [github.com/wablevaibhav](https://github.com/wablevaibhav) ·
 
 ## GitHub Stats
 
+<!-- Cards auto-refresh every 6h via GitHub Actions (includes private repos when GRS_PAT secret is set). -->
+
 <p align="center">
   <img height="180" src="./assets/github-stats.svg" alt="GitHub Stats" />
   <img height="180" src="./assets/top-langs.svg" alt="Top Languages" />
