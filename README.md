@@ -76,18 +76,18 @@ More on GitHub → [github.com/wablevaibhav](https://github.com/wablevaibhav) ·
 
 ## GitHub Stats
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.shion.dev/api?username=wablevaibhav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=wablevaibhav&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+<p align="center">
+  <img height="180" src="./assets/github-stats.svg" alt="GitHub Stats" />
+  <img height="180" src="./assets/top-langs.svg" alt="Top Languages" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=wablevaibhav&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="./assets/github-streak.svg" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wablevaibhav&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
+<p align="center">
+  <img src="./assets/activity-graph.svg" alt="Contribution Graph" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wablevaibhav&style=flat-square&color=0e75b6" alt="Profile views" />

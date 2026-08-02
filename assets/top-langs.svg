@@ -1,0 +1,153 @@
+<svg
+        width="350"
+        height="165"
+        viewBox="0 0 350 165"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <style>
+          .header {
+            font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
+            fill: #70a5fd;
+            
+          }
+          
+    .lang-name { font: 400 11px 'Inter', Ubuntu, Sans-Serif; fill: #38bdae }
+  
+
+          
+        </style>
+
+        undefined
+
+        <rect
+          data-testid="card-bg"
+          x="0.5"
+          y="0.5"
+          rx="4.5"
+          height="99%"
+          stroke="#E4E2E2"
+          width="349"
+          fill="#1a1b27"
+          stroke-opacity="1"
+        />
+
+        
+      <g
+        data-testid="card-title"
+        transform="translate(25, 35)"
+      >
+        <g transform="translate(0, 0)">
+      <text
+        x="0"
+        y="0"
+        class="header"
+        data-testid="header"
+      >My Programming Languages</text>
+    </g>
+      </g>
+    
+
+        <g
+          data-testid="main-card-body"
+          transform="translate(0, 55)"
+        >
+          
+    <svg data-testid="lang-items" x="25">
+      
+      <mask id="rect-mask">
+        <rect x="0" y="0" width="300" height="8" fill="white" rx="5" />
+      </mask>
+      
+          <rect
+            mask="url(#rect-mask)" 
+            data-testid="lang-progress"
+            x="0" 
+            y="0"
+            width="133.83" 
+            height="8"
+            fill="#b07219"
+          />
+        
+          <rect
+            mask="url(#rect-mask)" 
+            data-testid="lang-progress"
+            x="133.83" 
+            y="0"
+            width="132.11" 
+            height="8"
+            fill="#00B4AB"
+          />
+        
+          <rect
+            mask="url(#rect-mask)" 
+            data-testid="lang-progress"
+            x="265.94000000000005" 
+            y="0"
+            width="14.66" 
+            height="8"
+            fill="#A97BFF"
+          />
+        
+          <rect
+            mask="url(#rect-mask)" 
+            data-testid="lang-progress"
+            x="280.6000000000001" 
+            y="0"
+            width="13.33" 
+            height="8"
+            fill="#f1e05a"
+          />
+        
+          <rect
+            mask="url(#rect-mask)" 
+            data-testid="lang-progress"
+            x="293.93000000000006" 
+            y="0"
+            width="16.07" 
+            height="8"
+            fill="#3178c6"
+          />
+        
+      
+    <g transform="translate(0, 25)">
+      <circle cx="5" cy="6" r="5" fill="#b07219" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Java (44.61%)
+      </text>
+    </g>
+  
+    <g transform="translate(150, 25)">
+      <circle cx="5" cy="6" r="5" fill="#00B4AB" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Dart (44.04%)
+      </text>
+    </g>
+  
+    <g transform="translate(0, 50)">
+      <circle cx="5" cy="6" r="5" fill="#A97BFF" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Kotlin (4.89%)
+      </text>
+    </g>
+  
+    <g transform="translate(150, 50)">
+      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        JavaScript (4.44%)
+      </text>
+    </g>
+  
+    <g transform="translate(0, 75)">
+      <circle cx="5" cy="6" r="5" fill="#3178c6" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        TypeScript (2.02%)
+      </text>
+    </g>
+  
+    
+    </svg>
+  
+        </g>
+      </svg>
+    
