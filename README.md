@@ -76,25 +76,20 @@ More on GitHub → [github.com/wablevaibhav](https://github.com/wablevaibhav) ·
 
 ## GitHub Stats
 
-<!-- Live cards from github-stats-extended (not static files). For private repos: open https://github-stats-extended.vercel.app/frontend → GitHub Private Access -->
-
 <p align="center">
-  <a href="https://github.com/wablevaibhav">
-    <img src="https://github-stats-extended.vercel.app/api?username=wablevaibhav&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&disable_animations=true&rank_icon=github&cache_seconds=1800" alt="GitHub Stats" height="170" />
+  <a href="https://github-stats-extended.vercel.app/api?username=wablevaibhav&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=dark&disable_animations=true">
+    <img src="https://github-stats-extended.vercel.app/api?username=wablevaibhav&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=dark&disable_animations=true" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/wablevaibhav?tab=repositories">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=wablevaibhav&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&disable_animations=true&cache_seconds=1800" alt="Top Languages" height="170" />
-  </a>
+  &nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=wablevaibhav&layout=compact&theme=dark&langs_count=8&disable_animations=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=wablevaibhav&theme=tokyonight&hide_border=true&disable_animations=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=wablevaibhav&theme=dark&hide_border=true&disable_animations=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wablevaibhav&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wablevaibhav&theme=github-dark&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 <p align="center">
