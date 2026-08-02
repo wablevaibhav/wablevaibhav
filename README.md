@@ -76,19 +76,25 @@ More on GitHub → [github.com/wablevaibhav](https://github.com/wablevaibhav) ·
 
 ## GitHub Stats
 
-<!-- Cards auto-refresh every 6h via GitHub Actions (includes private repos when GRS_PAT secret is set). -->
+<!-- Live cards from github-stats-extended (not static files). For private repos: open https://github-stats-extended.vercel.app/frontend → GitHub Private Access -->
 
 <p align="center">
-  <img height="180" src="./assets/github-stats.svg" alt="GitHub Stats" />
-  <img height="180" src="./assets/top-langs.svg" alt="Top Languages" />
+  <a href="https://github.com/wablevaibhav">
+    <img src="https://github-stats-extended.vercel.app/api?username=wablevaibhav&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&disable_animations=true&rank_icon=github&cache_seconds=1800" alt="GitHub Stats" height="170" />
+  </a>
+  <a href="https://github.com/wablevaibhav?tab=repositories">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=wablevaibhav&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&disable_animations=true&cache_seconds=1800" alt="Top Languages" height="170" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="./assets/github-streak.svg" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=wablevaibhav&theme=tokyonight&hide_border=true&disable_animations=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="./assets/activity-graph.svg" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wablevaibhav&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 <p align="center">
