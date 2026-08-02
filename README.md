@@ -36,12 +36,12 @@ Previously I freelanced as a Mobile Application Developer (2021–2023), deliver
 
 ## Experience Highlights
 
-| Role | Company | Focus |
-|------|---------|--------|
-| **Software Engineer** | [CentraLogic](https://www.linkedin.com/company/centralogic) · Jun 2024 – Present | Flutter & React Native production apps, Play Store / App Store releases, Node.js & AWS backends, Firebase, team leadership |
-| **Software Engineer Trainee** | CentraLogic · Jan 2024 – Jun 2024 | Flutter apps, API integration, Firebase, QA & bug fixing |
-| **Mobile Application Developer** | Freelance · Aug 2021 – Dec 2023 | End-to-end client apps: requirements → UI → APIs → deployment → support |
-| **Android Developer** | RootKit Consultancy Services · 2023 | Kotlin / XML apps, performance & stability |
+| Role                             | Company                                                                          | Focus                                                                                                                      |
+| -------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **Software Engineer**            | [CentraLogic](https://www.linkedin.com/company/centralogic) · Jun 2024 – Present | Flutter & React Native production apps, Play Store / App Store releases, Node.js & AWS backends, Firebase, team leadership |
+| **Software Engineer Trainee**    | CentraLogic · Jan 2024 – Jun 2024                                                | Flutter apps, API integration, Firebase, QA & bug fixing                                                                   |
+| **Mobile Application Developer** | Freelance · Aug 2021 – Dec 2023                                                  | End-to-end client apps: requirements → UI → APIs → deployment → support                                                    |
+| **Android Developer**            | RootKit Consultancy Services · 2023                                              | Kotlin / XML apps, performance & stability                                                                                 |
 
 **Education:** Master's in Computer Science (Indira College, Pune) · Bachelor's in Computer Science (Modern College, Pune — First Class with Distinction)
 
@@ -51,7 +51,7 @@ Previously I freelanced as a Mobile Application Developer (2021–2023), deliver
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,react,dart,kotlin,java,android,apple,ts,js,nodejs,nextjs,python,postgres,mongodb,mysql,firebase,aws,azure,docker,git,githubactions,figma" alt="Tech stack icons" />
+    <img src="https://skillicons.dev/icons?i=flutter,react,dart,kotlin,java,apple,ts,js,nodejs,nextjs,python,postgres,mongodb,mysql,firebase,aws,azure,docker,git,githubactions,figma" alt="Tech stack icons" />
   </a>
 </p>
 
@@ -61,14 +61,14 @@ Previously I freelanced as a Mobile Application Developer (2021–2023), deliver
 
 ## Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|--------|
-| [**Portfolio**](https://wablevaibhav.github.io/) | Personal portfolio site | React, Vite, Tailwind |
-| [**LinkedIn Clone**](https://github.com/wablevaibhav/LinkedIn) | LinkedIn-inspired Android app | Kotlin |
-| [**FoodRunner**](https://github.com/wablevaibhav/FoodRunner) | Food ordering practice app | Kotlin |
-| [**Resume Builder**](https://github.com/wablevaibhav/resume_builder) | Resume builder web app | Django, Python |
-| [**FolkChat**](https://github.com/wablevaibhav/FolkChat) | Messaging app | Java |
-| [**claryft_components**](https://github.com/wablevaibhav/claryft_components) | Custom Flutter UI components | Dart, Flutter |
+| Project                                                                      | Description                   | Stack                 |
+| ---------------------------------------------------------------------------- | ----------------------------- | --------------------- |
+| [**Portfolio**](https://wablevaibhav.github.io/)                             | Personal portfolio site       | React, Vite, Tailwind |
+| [**LinkedIn Clone**](https://github.com/wablevaibhav/LinkedIn)               | LinkedIn-inspired Android app | Kotlin                |
+| [**FoodRunner**](https://github.com/wablevaibhav/FoodRunner)                 | Food ordering practice app    | Kotlin                |
+| [**Resume Builder**](https://github.com/wablevaibhav/resume_builder)         | Resume builder web app        | Django, Python        |
+| [**FolkChat**](https://github.com/wablevaibhav/FolkChat)                     | Messaging app                 | Java                  |
+| [**claryft_components**](https://github.com/wablevaibhav/claryft_components) | Custom Flutter UI components  | Dart, Flutter         |
 
 More on GitHub → [github.com/wablevaibhav](https://github.com/wablevaibhav) · **41 public repos** · **15 gists**
 
