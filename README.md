@@ -2,7 +2,7 @@
 
 # Hi, I'm Vaibhav Wable 👋
 
-**Full Stack Developer @ CentraLogic** · Pune, India / Remote
+**Full Stack Developer @ CentraLogic** · Pune, India / Remote<br>
 Java · Flutter · React Native · Node.js · MERN Stack · Express.js · Next.js · AWS · LLM API Integration
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavwable/)
