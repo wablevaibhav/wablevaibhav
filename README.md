@@ -2,8 +2,8 @@
 
 # Hi, I'm Vaibhav Wable 👋
 
-**Software Engineer @ CentraLogic** · Pune, India  
-Flutter · React Native · Next.js · Node.js · AI-assisted development
+**Full Stack Developer @ CentraLogic** · Pune, India / Remote
+Java · Flutter · React Native · Node.js · MERN Stack · Express.js · Next.js · AWS · LLM API Integration
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavwable/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://wablevaibhav.github.io/)
@@ -23,13 +23,13 @@ Available for freelance and contract work — Flutter / React Native apps, web a
 
 ## About Me
 
-I'm a Software Engineer with **3+ years** of professional experience building cross-platform mobile and web products. I currently work at **CentraLogic**, where I lead Flutter development, ship production apps to Android & iOS, and integrate backend services with Node.js, AWS, and Firebase.
+I'm a Full Stack Developer with **3+ years** of professional experience building cross-platform mobile and web products with Java, Flutter, React Native and the MERN stack. I currently work at **CentraLogic**, where I lead Flutter development, ship production apps to Android & iOS, and build backend services with Node.js, Express.js, AWS, and Firebase.
 
 Previously I freelanced as a Mobile Application Developer (2021–2023), delivering client apps end-to-end — UI, APIs, deployment, and post-release support. I also use AI tools like **Cursor** and **Claude** to move faster on features, migrations, and code quality.
 
 - 📱 Cross-platform apps with **Flutter** & **React Native**
 - 🏗️ Clean Architecture, BLoC / state management, reusable UI systems
-- ☁️ Firebase, Node.js, AWS, CI/CD for mobile releases
+- ☁️ MERN stack, Node.js / Express.js, Firebase, AWS, CI/CD for mobile releases
 - 🤝 Open to freelance projects and interesting collaborations
 
 ---
@@ -38,8 +38,7 @@ Previously I freelanced as a Mobile Application Developer (2021–2023), deliver
 
 | Role                             | Company                                                                          | Focus                                                                                                                      |
 | -------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| **Software Engineer**            | [CentraLogic](https://www.linkedin.com/company/centralogic) · Jun 2024 – Present | Flutter & React Native production apps, Play Store / App Store releases, Node.js & AWS backends, Firebase, team leadership |
-| **Software Engineer Trainee**    | CentraLogic · Jan 2024 – Jun 2024                                                | Flutter apps, API integration, Firebase, QA & bug fixing                                                                   |
+| **Full Stack Developer** | [CentraLogic](https://www.linkedin.com/company/centralogic) · Jan 2024 – Present | Flutter, React Native & MERN stack production apps, Play Store / App Store releases, Node.js / Express.js & AWS backends, Firebase, LLM API integration, team leadership |
 | **Mobile Application Developer** | Freelance · Aug 2021 – Dec 2023                                                  | End-to-end client apps: requirements → UI → APIs → deployment → support                                                    |
 | **Android Developer**            | RootKit Consultancy Services · 2023                                              | Kotlin / XML apps, performance & stability                                                                                 |
 
@@ -51,7 +50,7 @@ Previously I freelanced as a Mobile Application Developer (2021–2023), deliver
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,react,dart,kotlin,java,apple,ts,js,nodejs,nextjs,python,postgres,mongodb,mysql,firebase,aws,azure,docker,git,githubactions,figma" alt="Tech stack icons" />
+    <img src="https://skillicons.dev/icons?i=flutter,react,dart,kotlin,java,apple,ts,js,nodejs,express,nextjs,python,postgres,mongodb,mysql,firebase,aws,azure,docker,git,githubactions,figma" alt="Tech stack icons" />
   </a>
 </p>
 
