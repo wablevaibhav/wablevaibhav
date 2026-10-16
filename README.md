@@ -2,8 +2,9 @@
 
 # Hi, I'm Vaibhav Wable 👋
 
-**Full Stack Developer @ CentraLogic** · Pune, India / Remote<br>
-Java · Flutter · React Native · Node.js · MERN Stack · Express.js · Next.js · AWS · LLM API Integration
+**Software Engineer @ CentraLogic** · Pune, India / Remote<br>
+React Native & Flutter engineer adding LLM features to apps that need to stay fast<br>
+React Native · Flutter · Node.js · Express.js · AWS · Java / Spring Boot · Python · LLM Integration
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavwable/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://wablevaibhav.github.io/)
@@ -13,7 +14,7 @@ Java · Flutter · React Native · Node.js · MERN Stack · Express.js · Next.j
 
 ### 💼 Open to Freelancing
 
-Available for freelance and contract work — Flutter / React Native apps, web apps, API integrations, and end-to-end delivery (Play Store & App Store).
+Available for freelance and contract work: React Native / Flutter apps, LLM feature integration, API development, and end-to-end delivery (Play Store & App Store).
 
 **[📧 Let's talk →](mailto:vaibhavswable@gmail.com)** · **[Connect on LinkedIn](https://www.linkedin.com/in/vaibhavwable/)**
 
@@ -23,14 +24,14 @@ Available for freelance and contract work — Flutter / React Native apps, web a
 
 ## About Me
 
-I'm a Full Stack Developer with **3+ years** of professional experience building cross-platform mobile and web products with Java, Flutter, React Native and the MERN stack. I currently work at **CentraLogic**, where I lead Flutter development, ship production apps to Android & iOS, and build backend services with Node.js, Express.js, AWS, and Firebase.
+I'm a Software Engineer in Pune building production **React Native** and **Flutter** apps with **Node.js / Express.js** backends on AWS. At **CentraLogic** (since Jan 2024) I profile and optimize apps in production, run CI/CD on **AWS Amplify** and **CodeMagic**, and ship **LLM features** (OpenAI, Claude) into real product flows.
 
-Previously I freelanced as a Mobile Application Developer (2021–2023), delivering client apps end-to-end — UI, APIs, deployment, and post-release support. I also use AI tools like **Cursor** and **Claude** to move faster on features, migrations, and code quality.
+Outside work I build to learn: **CodeMind**, an open-source, privacy-first local AI coding assistant (Python, FastAPI, Ollama, 111 tests), plus Java / Spring Boot and Kafka projects. I also use AI tools like **Cursor** and **Claude** to move faster on features, migrations and code quality.
 
-- 📱 Cross-platform apps with **Flutter** & **React Native**
-- 🏗️ Clean Architecture, BLoC / state management, reusable UI systems
-- ☁️ MERN stack, Node.js / Express.js, Firebase, AWS, CI/CD for mobile releases
-- 🤝 Open to freelance projects and interesting collaborations
+- 📱 Cross-platform apps with **React Native** & **Flutter**
+- 🤖 LLM features in product flows: OpenAI, Claude, local models via Ollama
+- ☁️ Node.js / Express.js REST APIs, AWS (Lambda, Amplify), Firebase, CI/CD with CodeMagic
+- ☕ Java 21 / Spring Boot, Kafka, PostgreSQL, Docker
 
 ---
 
@@ -38,11 +39,10 @@ Previously I freelanced as a Mobile Application Developer (2021–2023), deliver
 
 | Role                             | Company                                                                          | Focus                                                                                                                      |
 | -------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| **Full Stack Developer** | [CentraLogic](https://www.linkedin.com/company/centralogic) · Jan 2024 – Present | Flutter, React Native & MERN stack production apps, Play Store / App Store releases, Node.js / Express.js & AWS backends, Firebase, LLM API integration, team leadership |
-| **Mobile Application Developer** | Freelance · Aug 2021 – Dec 2023                                                  | End-to-end client apps: requirements → UI → APIs → deployment → support                                                    |
-| **Android Developer**            | RootKit Consultancy Services · 2023                                              | Kotlin / XML apps, performance & stability                                                                                 |
+| **Software Engineer** | [CentraLogic](https://www.linkedin.com/company/centralogic) · Jan 2024 – Present | React Native & Flutter production apps, profiling & optimization, CI/CD on AWS Amplify and CodeMagic, LLM features (OpenAI, Claude), secure Node.js / Express.js REST APIs on AWS |
+| **Android Developer (Intern)**   | RootKit Consultancy Services · Jan 2023 – Apr 2023                               | Java / Kotlin Android apps, debugging, backend integration, performance & stability                                        |
 
-**Education:** Master's in Computer Science (Indira College, Pune) · Bachelor's in Computer Science (Modern College, Pune — First Class with Distinction)
+**Education:** Master's in Computer Science (Indira College of Commerce & Science, Pune, 2022–2024) · Bachelor's in Computer Science (Modern College, Pune, 2019–2022 — First Class with Distinction, 76%)
 
 ---
 
@@ -62,11 +62,13 @@ Previously I freelanced as a Mobile Application Developer (2021–2023), deliver
 
 | Project                                                                      | Description                   | Stack                 |
 | ---------------------------------------------------------------------------- | ----------------------------- | --------------------- |
+| **CodeMind** (open source)                                                   | Privacy-first local AI coding assistant: six modes, streaming, schema-validated output with retry/repair, 111 tests | Python, FastAPI, Pydantic, Ollama |
+| [**Order Platform**](https://github.com/wablevaibhav/order-platform)         | Event-driven order platform: two microservices over Kafka (idempotent consumer), Docker Compose | Spring Boot, Kafka, PostgreSQL |
+| [**Job Tracker API**](https://github.com/wablevaibhav/job-tracker-api)       | REST API with JWT auth, pagination/filtering, OpenAPI docs | Java 21, Spring Boot 3, PostgreSQL |
+| [**Job Tracker UI**](https://github.com/wablevaibhav/job-tracker-ui)         | Dashboard for the tracker API: login, filters, live stats | React 18, TypeScript, Vite |
+| **Expense Tracker**                                                          | Finance app with LLM-based smart categorization, budgets and Firebase sync | Flutter, Firebase, LLM |
+| **Child Tracker**                                                            | Family safety app: live location, geofencing alerts, SOS | Flutter, Firebase, Google Maps |
 | [**Portfolio**](https://wablevaibhav.github.io/)                             | Personal portfolio site       | React, Vite, Tailwind |
-| [**LinkedIn Clone**](https://github.com/wablevaibhav/LinkedIn)               | LinkedIn-inspired Android app | Kotlin                |
-| [**FoodRunner**](https://github.com/wablevaibhav/FoodRunner)                 | Food ordering practice app    | Kotlin                |
-| [**Resume Builder**](https://github.com/wablevaibhav/resume_builder)         | Resume builder web app        | Django, Python        |
-| [**FolkChat**](https://github.com/wablevaibhav/FolkChat)                     | Messaging app                 | Java                  |
 | [**claryft_components**](https://github.com/wablevaibhav/claryft_components) | Custom Flutter UI components  | Dart, Flutter         |
 
 More on GitHub → [github.com/wablevaibhav](https://github.com/wablevaibhav) · **41 public repos** · **15 gists**
@@ -99,10 +101,10 @@ More on GitHub → [github.com/wablevaibhav](https://github.com/wablevaibhav) ·
 
 ## What I Can Help With (Freelance)
 
-- Cross-platform **Flutter** / **React Native** apps (Android + iOS)
-- Feature work, bug fixes, performance tuning, and store releases
-- **Firebase** / REST API integration and Node.js backends
-- UI component libraries and Clean Architecture setups
+- Cross-platform **React Native** / **Flutter** apps (Android + iOS)
+- **LLM features** (OpenAI, Claude, local models) added without hurting app performance
+- Performance profiling, bug fixes, and CI/CD with AWS Amplify / CodeMagic
+- **Node.js / Express.js** REST APIs on AWS, plus Firebase integration
 - Short-term contracts or ongoing product collaboration
 
 ---
